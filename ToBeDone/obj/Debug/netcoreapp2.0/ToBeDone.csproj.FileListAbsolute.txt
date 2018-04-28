@@ -1,0 +1,12 @@
+C:\Users\Ivo\source\repos\2bedone\ToBeDone\ToBeDone\bin\Debug\netcoreapp2.0\ToBeDone.deps.json
+C:\Users\Ivo\source\repos\2bedone\ToBeDone\ToBeDone\bin\Debug\netcoreapp2.0\ToBeDone.runtimeconfig.json
+C:\Users\Ivo\source\repos\2bedone\ToBeDone\ToBeDone\bin\Debug\netcoreapp2.0\ToBeDone.runtimeconfig.dev.json
+C:\Users\Ivo\source\repos\2bedone\ToBeDone\ToBeDone\bin\Debug\netcoreapp2.0\ToBeDone.dll
+C:\Users\Ivo\source\repos\2bedone\ToBeDone\ToBeDone\bin\Debug\netcoreapp2.0\ToBeDone.pdb
+C:\Users\Ivo\source\repos\2bedone\ToBeDone\ToBeDone\obj\Debug\netcoreapp2.0\ToBeDone.csprojResolveAssemblyReference.cache
+C:\Users\Ivo\source\repos\2bedone\ToBeDone\ToBeDone\obj\Debug\netcoreapp2.0\ToBeDone.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\source\repos\2bedone\ToBeDone\ToBeDone\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Ivo\source\repos\2bedone\ToBeDone\ToBeDone\obj\Debug\netcoreapp2.0\ToBeDone.AssemblyInfoInputs.cache
+C:\Users\Ivo\source\repos\2bedone\ToBeDone\ToBeDone\obj\Debug\netcoreapp2.0\ToBeDone.AssemblyInfo.cs
+C:\Users\Ivo\source\repos\2bedone\ToBeDone\ToBeDone\obj\Debug\netcoreapp2.0\ToBeDone.dll
+C:\Users\Ivo\source\repos\2bedone\ToBeDone\ToBeDone\obj\Debug\netcoreapp2.0\ToBeDone.pdb
