@@ -137,7 +137,7 @@ body {
     display: table;
     width: 100%;
     height: auto;
-    margin: 10%;
+    margin-top: 10%;
     padding: 10% 0;
     text-align: center;
     color: #537364;
@@ -168,7 +168,7 @@ body {
         display: table;
         width: 100%;
         height: auto;
-        margin: 10%;
+        margin-top: 10%;
         padding: 10% 0;
         text-align: center;
         color: #537364;
