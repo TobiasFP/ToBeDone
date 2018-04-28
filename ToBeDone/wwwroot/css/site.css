@@ -170,7 +170,7 @@ body {
         padding: 20% 0;
         text-align: center;
         color: #537364;
-        background: url("~/images/banner1.svg") no-repeat top left scroll;
+        background: url(../images/banner1.svg) no-repeat top left scroll;
         background-color: white;
         -webkit-background-size: cover;
         -moz-background-size: cover;
