@@ -151,6 +151,7 @@ body {
   .masthead .intro-body {
     display: table-cell;
     vertical-align: middle;
+    width: 100%;
   } 
   
   .masthead .intro-body .brand-heading {
@@ -163,8 +164,18 @@ body {
   
   @media (min-width: 768px) {
     .masthead {
-      height: 100%;
-      padding: 20% 0 0 0;
+        display: table;
+        width: 100%;
+        height: auto;
+        padding: 40% 0;
+        text-align: center;
+        color: #537364;
+        background: url("~/images/banner1.svg") no-repeat top left scroll;
+        background-color: white;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
     }
     .masthead .intro-body .brand-heading {
       font-size: 50px;
