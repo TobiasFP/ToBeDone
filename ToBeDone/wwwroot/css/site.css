@@ -125,32 +125,6 @@ body {
     background-color: white;
   }
   
-  @media (min-width: 992px) {
-    #mainNav {
-      padding-top: 0px;
-      padding-bottom: 0px;
-      -webkit-transition: background 0.3s ease-in-out, padding-top 0.3s ease-in-out, padding-bottom 0.3s;
-      -moz-transition: background 0.3s ease-in-out, padding-top 0.3s ease-in-out, padding-bottom 0.3s;
-      transition: background 0.3s ease-in-out, padding-top 0.3s ease-in-out, padding-bottom 0.3s;
-      letter-spacing: 1px;
-      border-bottom: none;
-      background: white;
-    }
-    #mainNav.navbar-shrink {
-      padding-top: 0px;
-      padding-bottom: 0px;
-      border-bottom: 1px solid rgba(255, 255, 255, 0.3);
-      background: white;
-    }
-    #mainNav .nav-link.active {
-      outline: none;
-      background-color: rgba(255, 255, 255, 0.3);
-    }
-    #mainNav .nav-link.active:hover {
-      color: #537364;
-    }
-  }
-  
   @media (max-width: 640px) 
   {
       #RemovedLink
@@ -166,7 +140,7 @@ body {
     padding: 40% 0;
     text-align: center;
     color: #537364;
-    background: url(~/images/banner1.svg) no-repeat top left scroll;
+    background: url("~/images/banner1.svg") no-repeat top left scroll;
     background-color: white;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -282,7 +256,7 @@ body {
   .btn-default {
     color: #526273;
     border: 1px solid white;
-    background-color: transparent;
+    background-color: blue;
   }
   
   .btn-default:focus, .btn-default:hover {
