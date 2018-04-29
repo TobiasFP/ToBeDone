@@ -269,9 +269,9 @@ body {
   }
   
   .btn-default {
-    color: #526273;
+    color: white;
     border: 1px solid white;
-    background-color: blue;
+    background-color: #526273;
   }
   
   .btn-default:focus, .btn-default:hover {
