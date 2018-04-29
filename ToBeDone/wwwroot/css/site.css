@@ -22,6 +22,7 @@
     }
 }
 
+<<<<<<< HEAD
 body {
     font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     position: relative;
@@ -660,3 +661,20 @@ body {
                   color: black;
               }
           }
+=======
+.circle
+    {
+    width:500px;
+    height:500px;
+    border-radius:250px;
+    font-size:50px;
+    color:#fff;
+    line-height:500px;
+    text-align:center;
+    background:rgb(255, 255, 255)
+    }
+
+.img {
+    border-radius: 50%;
+}
+>>>>>>> origin/Ivo
